@@ -9,13 +9,18 @@ html {
   padding: 0 24px;
 }
 
+body {
+    font-family: "Inter", sans-serif;
+}
+
 h1 {
   text-align: center;
   background-color: aquamarine;
   padding: 10px;
   border-bottom: 10px;
+  font-size: 50px;
 }
 
 #items{
-    background-color: aquamarine;
+    font-size: x-large;
 }
