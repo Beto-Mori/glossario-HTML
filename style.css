@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    font-family: "Inter", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 h1 {
@@ -21,6 +21,14 @@ h1 {
   font-size: 50px;
 }
 
-#items{
-    font-size: x-large;
+#items {
+  font-size: x-large;
+}
+
+footer {
+  width: 100%;
+  max-width: 588px;
+  margin: 56px auto 0px;
+  padding: 0 24px;
+  text-align: center;
 }
